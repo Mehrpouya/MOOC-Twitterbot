@@ -1,4 +1,4 @@
-#[MOOC Twitterbot](##Links "MOOC Twitterbot"):
+#[MOOC Twitterbot](##"Links to related projects:" "MOOC Twitterbot"):
 The task of this submodule is to responds to user tweets.
 The twitter bot is developed based on Agent oriented programming. The Teacher agent developed using Java Agent Development Framework(JADE).
 
@@ -24,7 +24,7 @@ Each rule has 7 attributes:
 
 All the rules are being stored in MySQL table "tweetRules". For editing rules and Making new ones you can either add them to the database directly or use the [MOOC Twitter GUI](##MOOC Twitter GUI:)
 
-##Links to submodules:
+##Links to related projects:
 - [MOOC Twitterbot](https://github.com/Mehrpouya/MOOC-Twitterbot "MOOC Twitterbot")
 
 - [MOOC Twitter Sniffer](https://github.com/Mehrpouya/MOOC-Twitterbot-Sniffer "MOOC Twitterbot")
